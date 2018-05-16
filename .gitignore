@@ -1,0 +1,4 @@
+.project
+.classpath
+org.eclipse.jdt.core.prefs
+lucene-s3-searcher/.settings
